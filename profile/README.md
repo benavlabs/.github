@@ -96,8 +96,7 @@ Have a project in mind? Let's collaborate!
 - **Website**: [benav.io](https://benav.io)
 - **LinkedIn**: [Benav Labs](https://www.linkedin.com/company/benavlabs)
 
----
-
-<p align="center">
-  <small>BenaV Labs - Transforming ideas into world class solutions</small>
-</p>
+<hr>
+<a href="https://benav.io">
+  <img src="https://github.com/benavlabs/fastcrud/raw/main/docs/assets/benav_labs_banner.png" alt="Powered by Benav Labs - benav.io"/>
+</a>
