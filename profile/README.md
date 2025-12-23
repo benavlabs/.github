@@ -44,7 +44,7 @@ We build AI-powered solutions, maintain impactful open source projects, and crea
 </div>
 
 <div align="center">
-  <a href="https://github.com/benavlabs/clientai">
+  <a href="https://github.com/benavlabs/fastroai">
     <img height=120 src="https://github-readme-stats.vercel.app/api/pin/?username=benavlabs&repo=clientai&theme=tokyonight&border_radius=20"/>
   </a>
   &nbsp;&nbsp;
